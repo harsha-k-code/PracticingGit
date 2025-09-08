@@ -11,7 +11,8 @@ public class Demo {
 //edited from remote
 //edited by branch 1		
 //conflict from main remote	
-//added comment from branch2		
+//added comment from branch2
+//added comment from main branch		
 	}
 
 }
