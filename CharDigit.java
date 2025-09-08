@@ -2,7 +2,7 @@
 public class CharDigit {
 
 	public static void main(String[] args) {
-
+//branch1
 		String s="gj72@cwo6#48%f*e723",chars ="",digits="",spls ="";
 		int charcount=0,digitcount=0,splchars=0;
 		
