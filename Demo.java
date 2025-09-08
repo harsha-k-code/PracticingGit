@@ -9,9 +9,8 @@ public class Demo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 //edited from remote
-//edited by branch 1
-// conflict from branch 1 local		
-		
+//edited by branch 1		
+//conflict from main remote		
 	}
 
 }
