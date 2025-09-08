@@ -13,6 +13,7 @@ public class Demo {
 //conflict from main remote	
 //added comment from branch2
 //added comment from main branch		
+
 	}
 
 }
