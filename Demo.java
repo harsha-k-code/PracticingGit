@@ -10,7 +10,8 @@ public class Demo {
 		// TODO Auto-generated method stub
 //edited from remote
 //edited by branch 1		
-//conflict from main remote		
+//conflict from main remote	
+//added comment from branch2		
 	}
 
 }
